@@ -1,6 +1,6 @@
 # Food Image Classification System
 
-Note: This was a group coursework project created by me and two of my colleagues from university
+    Note: This was a group coursework project created by me and two of my colleagues from university
 
 ## Overview
 
