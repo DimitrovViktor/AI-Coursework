@@ -2,6 +2,12 @@
 
     Note: This was a group coursework project created by me and two of my colleagues from university
 
+---
+
+![Application](https://github.com/user-attachments/assets/5d6c260d-43d2-41ca-938a-0f58962a4a03)
+
+---
+
 ## Overview
 
 A computer vision system for food recognition using different machine learning approaches, including Convolutional Neural Networks (CNN), Histogram of Oriented Gradients (HOG), and Capsule Networks.
